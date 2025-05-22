@@ -35,8 +35,12 @@ I'm a CNC automation specialist focused on revolutionizing Fusion 360 workflows 
 <p align="center">
   <img src="assets/fusion_icon.svg" width="40" height="40" alt="Fusion 360" title="Fusion 360 API"/>
   <img src="assets/python_icon.svg" width="40" height="40" alt="Python" title="Python"/>
+  <img src="assets/html_icon.svg" width="40" height="40" alt="HTML5" title="HTML5"/>
+  <img src="assets/css_icon.svg" width="40" height="40" alt="CSS3" title="CSS3"/>
   <img src="assets/javascript_icon.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
-  <img src="assets/excel_icon.svg" width="40" height="40" alt="C++" title="C++"/>
+  <img src="assets/telegram_icon.svg" width="40" height="40" alt="aiogram" title="Aiogram"/>
+  <img src="assets/c_sharp_icon.svg" width="40" height="40" alt="C#" title="C#"/>
+  <img src="assets/excel_icon.svg" width="40" height="40" alt="Excel VBA" title="Excel VBA"/>
   <img src="assets/vscode_icon.svg" width="40" height="40" alt="VS Code" title="VS Code"/>
 </p>
 
