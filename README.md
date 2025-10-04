@@ -42,6 +42,7 @@ I'm a CNC automation specialist focused on revolutionizing Fusion 360 workflows 
   <img src="assets/c_sharp_icon.svg" width="40" height="40" alt="C#" title="C#"/>
   <img src="assets/excel_icon.svg" width="40" height="40" alt="Excel VBA" title="Excel VBA"/>
   <img src="assets/vscode_icon.svg" width="40" height="40" alt="VS Code" title="VS Code"/>
+  <img src="assets/svelte.svg" width="40" height="40" alt="Svelte" title="Svelte"/>
 </p>
 
 ---
