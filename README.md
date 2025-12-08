@@ -50,7 +50,8 @@ I'm a CNC automation specialist focused on revolutionizing Fusion 360 workflows 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaestroFusion360&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaestroFusion360&theme=github_dark" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaestroFusion360&theme=github_dark" alt="Productive Time"/>
 </p>
 
 <p align="center">
