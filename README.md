@@ -130,10 +130,6 @@ I'm a CNC/CAM engineer and software developer working with Fusion 360, postproce
       />
 </p>
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaestroFusion360&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
