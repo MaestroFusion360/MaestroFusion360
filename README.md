@@ -135,10 +135,5 @@ I'm a CNC/CAM engineer and software developer working with Fusion 360, postproce
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaestroFusion360&theme=github_dark" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaestroFusion360&theme=github_dark" alt="Productive Time"/>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaestroFusion360&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
