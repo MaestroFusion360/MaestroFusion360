@@ -52,6 +52,27 @@ I'm a CNC/CAM engineer and software developer working with Fusion 360, postproce
       title="Python"
       />
   <img
+    src="assets/postgresql_icon.svg"
+    width="40"
+    height="40"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+      />
+  <img
+    src="assets/fastapi_icon.svg"
+    width="40"
+    height="40"
+    alt="FastAPI"
+    title="FastAPI"
+      />
+  <img
+    src="assets/alembic_icon.svg"
+    width="40"
+    height="40"
+    alt="Alembic"
+    title="Alembic"
+      />
+  <img
       src="assets/svelte_icon.svg"
       width="40"
       height="40"
@@ -129,6 +150,19 @@ I'm a CNC/CAM engineer and software developer working with Fusion 360, postproce
       title="VS Code"
       />
 </p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaestroFusion360&theme=github_dark" alt="GitHub Profile Summary" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaestroFusion360&theme=github_dark" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaestroFusion360&theme=github_dark" alt="Most Commit Language" />
+
+</div>
+
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaestroFusion360&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
